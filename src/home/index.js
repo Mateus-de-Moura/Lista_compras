@@ -21,13 +21,11 @@ const style = StyleSheet.create({
     },
     view: {
         flex: 1,
-        backgroundColor: "black",
         display: "flex",
         justifyContent: "center",
         alignItems: "center"
     },
     text: {
-        color: "#FFF",
         fontWeight: "bold",
 
 
